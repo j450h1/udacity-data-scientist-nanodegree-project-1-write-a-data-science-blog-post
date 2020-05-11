@@ -27,11 +27,26 @@ For this project, I have created a blog post and accompanying Github repository 
 
 I chose the US baby dataset to analyze and answer some questions.
 
-* Name of Elon Musk's baby name
+* Name of Elon Musk's baby name with his girlfriend Grimes.
 
 - [ ] Come up with three questions you are interested in answering.
+
+* Looks like Elon Musk might be moving to Nevada or Texas. 
+* What names will the parents consider? I think we can make a reasonable assumption.
+The obvious one would be Ashley. However, what if the parents wanted to go with another name starting with A?
+
+* Most popular name in the US
+
 * If Musk chooses to give his son a nickname or a name that will fit on official documents, what are the most likely names?
+
+* Be like Mike, did that name get popular?
+
+* How about teammates
+
+* Shaq
 # What were the most popular US baby names during the last pandemic and what are the most popular names now?
+
+* Want to close this post with a comparison of what names were most popular during the last pandemic and comparing 100 years later? Any names still in the top 10 per men or women? (look at last 10 years - 1910-1918 to 1920-)
 * Spanish flu, Chinese Wuhan corona virus or COVID 19- naming controversy
 
 * As we are cacoonerd due to the pandemic, alot of us have been watching more Netflix and documentaries like the Last Dance. Since Michael Jordan and the Bull's, perhaps Mike and his teammates were having baby names aftered them? Is there any.
@@ -46,7 +61,7 @@ One of the many players trying to dethrone Mike was Shaquille O'neil. Many may h
 What is Elon Musk's son's name - if its not just a publicity stunt? If he chooses a name that can be pronounced? What would be his choices
 
 
-The last dance is a documentary. I heard recently that over a 1000 kid. Did we see an uptake in boy's named Michael?
+The last dance is a documentary. I heard recently that over a 1000 kid. Did we see an uptake in boy's named Michael? X, how about A or E?
 
 1. What are the most popular names? Growth rate? 
 
@@ -76,7 +91,7 @@ got.
 - [ ] Perform necessary cleaning, analysis, and modeling.
 - [ ] Evaluate your results.
 - [ ] Share your insights with stakeholders.
-* Come up with blog title "What's in a name?"
+* Come up with blog title "What's in a name? If not X AE A-12, then what?"
 * Choose ordering of titles
 * 
 - [ ] .gitignore credentials folder after project is marked so user will need to provide his/her own service account key and Google Cloud Platform project
