@@ -7,9 +7,11 @@ For this project, I have created a blog post and accompanying Github repository 
 
 # Setup
 
-* You will authenticate with Google BigQuery using my service account key which I have provided (usually I would ask that you provide your own key, but want to make sure it "just works"" for you in this case)
+* You will authenticate with Google BigQuery using my service account key which I have provided (usually I would ask that you provide your own key, but want to make sure it "**just works**" for you in this case)
 
 * All you need to do is open up analysis.ipynb in jupyter notebook AFTER installing any dependencies ```pip install -r requirements.txt``
+
+* For a seamless experience, it is recommended that you install Python 3 through the Anaconda distribution as per: https://problemsolvingwithpython.com/01-Orientation/01.03-Installing-Anaconda-on-Windows/
 
 # Tasks
 
