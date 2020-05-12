@@ -8,6 +8,12 @@ This is where I can put together my thoughts for the blog portion of this projec
 
 * Elon Musk/Grime baby name - description of the name and link
 
+* X marks the spot
+* Charles Xavier - well its not his first name but that would be the most likely name with X - TO DO: Add X men
+
+
+
+
 * What if 
 
 # Body

@@ -7,7 +7,8 @@ For this project, I have created a blog post and accompanying Github repository 
 
 # Setup
 
-* All you need to do is open up analysis.ipynb in jupyter notebook AFTER installing any dependencies ```pip install -r requirements.txt``
+* All you need to do is open up ***analysis.ipynb*** in jupyter notebook AFTER installing any dependencies ```pip install -r requirements.txt```
+as per: ```jupyter notebook analysis.ipynb```
 
 * For a seamless experience, it is recommended that you install Python 3 through the Anaconda distribution as per: https://problemsolvingwithpython.com/01-Orientation/01.03-Installing-Anaconda-on-Windows/
 
