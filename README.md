@@ -1,7 +1,6 @@
 # udacity-data-scientist-nanodegree-project-1-write-a-data-science-blog-post
 For this project, I have created a blog post and accompanying Github repository to add to my data science portfolio. 
 
-library(editR)
 # Blog post
 
 - Enter URL here
@@ -17,9 +16,8 @@ as per: ```jupyter notebook analysis.ipynb```
 
 * US Baby Names - https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data
 
-* Chicago Bulls 1998 Team Roster - https://www.basketball-reference.com/teams/CHI/1998.html  
-# Tasks
-- [ ] Choose dataset
+* US State Maps - https://www.arcgis.com/home/item.html?id=b07a9393ecbd430795a6f6218443dccc
+
 
 * Intro - son
 
