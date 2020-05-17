@@ -1,6 +1,7 @@
 # udacity-data-scientist-nanodegree-project-1-write-a-data-science-blog-post
 For this project, I have created a blog post and accompanying Github repository to add to my data science portfolio. 
 
+library(editR)
 # Blog post
 
 - Enter URL here
