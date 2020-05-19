@@ -1,16 +1,21 @@
 # udacity-data-scientist-nanodegree-project-1-write-a-data-science-blog-post
-For this project, I have created a blog post and accompanying Github repository to add to my data science portfolio. 
+For this project, I created a blog post on medium and this accompanying Github repository to add to my Data Science portfolio.
 
 # Inspiration
 
+As many of you, I’ve been watching the captivating documentary the [Last Dance](https://en.wikipedia.org/wiki/The_Last_Dance_(TV_series)). This inspired me to do this analysis on names like 'Mike', 'Michael' and other US baby names. 
+
+![](https://upload.wikimedia.org/wikipedia/en/1/14/The_Last_Dance_2020.jpg)
 
 # Blog post
 
-https://medium.com/@jsohi/whats-in-a-name-an-analysis-of-over-a-century-of-baby-names-a60c6e1a6615
+https://medium.com/@jsohi/whats-in-a-name-an-analysis-of-over-a-century-of-baby-names
 
 # Setup
 
-* Install any dependencies ```pip install -r requirements.txt```
+* Clone/download this repository to your local computer
+
+* Install any python package dependencies ```pip install -r requirements.txt```
 
 * Then all you need to do is open up ***analysis.ipynb*** in jupyter notebook as per: ```jupyter notebook analysis.ipynb```
 
