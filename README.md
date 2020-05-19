@@ -23,6 +23,12 @@ https://medium.com/@jsohi/whats-in-a-name-an-analysis-of-over-a-century-of-baby-
 
 * For a seamless experience, it is recommended that you install Python 3 through the Anaconda distribution as per: https://problemsolvingwithpython.com/01-Orientation/01.03-Installing-Anaconda-on-Windows/
 
+# Files/folders
+
+* **data**: The raw source data which includes baby names by year, by year and US state, and shape files for US states to generate state maps
+
+* **figs**: Any charts/figures generated that were published to the blog
+
 # Source Data 
 
 * US Baby Names - https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data
