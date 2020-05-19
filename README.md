@@ -3,9 +3,11 @@ For this project, I created a blog post on medium and this accompanying Github r
 
 # Inspiration
 
-As many of you, I’ve been watching the captivating documentary the [Last Dance](https://en.wikipedia.org/wiki/The_Last_Dance_(TV_series)). This inspired me to do this analysis on names like 'Mike', 'Michael' and other US baby names. 
+As many of you, I’ve been watching the captivating documentary the [Last Dance](https://en.wikipedia.org/wiki/The_Last_Dance_(TV_series)). 
 
 ![](https://upload.wikimedia.org/wikipedia/en/1/14/The_Last_Dance_2020.jpg)
+
+This inspired me to do this analysis on names like 'Mike', 'Michael' and other US baby names. 
 
 # Blog post
 
