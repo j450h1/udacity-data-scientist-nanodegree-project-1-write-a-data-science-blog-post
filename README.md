@@ -11,7 +11,7 @@ This inspired me to do this analysis on names like 'Mike', 'Michael' and other U
 
 # Blog post
 
-https://medium.com/@jsohi/whats-in-a-name-an-analysis-of-over-a-century-of-baby-names
+https://medium.com/@jsohi/whats-in-a-name-an-analysis-of-over-a-century-of-baby-names-a60c6e1a6615
 
 # Setup
 
